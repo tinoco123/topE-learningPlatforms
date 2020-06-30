@@ -1,24 +1,9 @@
-p {
-
-  font-size: 36px;
-  background-color: black;
-  color: white;
-  padding: 10px;
+td {
+  border: solid 1px;
+}
+table{
+  margin: auto;
 }
 .titulo{
-  text-align: center;
-  margin-bottom: 50px;
-background-color: red;
-
-}
-#contratame{
-  border: none;
-  color: black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-
-  font-size: 16px;
-  margin-left:500px;
-  cursor: pointer;
+  margin-left: 440px;
 }
